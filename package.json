@@ -4,11 +4,13 @@
   "description": "create weather web app using node",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "author": "subodh kant",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.18.1",
     "requests": "^0.3.0"
   }
 }
