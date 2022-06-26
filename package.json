@@ -1,0 +1,14 @@
+{
+  "name": "openweathernode",
+  "version": "1.0.0",
+  "description": "create weather web app using node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "subodh kant",
+  "license": "ISC",
+  "dependencies": {
+    "requests": "^0.3.0"
+  }
+}
